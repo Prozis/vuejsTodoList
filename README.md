@@ -1,5 +1,7 @@
 # vuejs.loc
 
+## Простой Todo list на vuejs с использованием vue-router
+
 ## Project setup
 ```
 npm install
